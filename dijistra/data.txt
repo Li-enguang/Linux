@@ -1,0 +1,20 @@
+6 8
+v0 v2 10
+v0 v4 30
+v0 v5 100
+v1 v2 5
+v2 v3 50
+v3 v5 10
+v4 v3 20
+v4 v5 60
+
+v0 v1 v2 v3 v4 v5 
+ a  b   c   d   e  f
+a c 10
+a e 30
+a f 100
+b c 5
+c d 50
+d f 10
+e d 20
+e f 60
